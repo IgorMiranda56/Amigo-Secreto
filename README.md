@@ -10,7 +10,7 @@
 - Não são preenchidos campos vazios.
 
 ### 🎮 Acesso ao jogo 🎮
-
+https://igormiranda56.github.io/Amigo-Secreto/
 
 ### Tecnologias Utilizadas
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat) ![Static Badge](https://img.shields.io/badge/CSS-blue?style=flat) ![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat)
